@@ -1,0 +1,15 @@
+string
+boolean
+object
+float
+double
+interger
+array
+lists
+instance
+private
+public
+increment
+for loop
+switch
+while loop
