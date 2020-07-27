@@ -1,0 +1,7 @@
+C:\Users\ramenmaster\source\repos\SU2020\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe.config
+C:\Users\ramenmaster\source\repos\SU2020\TriviaGame\TriviaGame\bin\Debug\TriviaGame.exe
+C:\Users\ramenmaster\source\repos\SU2020\TriviaGame\TriviaGame\bin\Debug\TriviaGame.pdb
+C:\Users\ramenmaster\source\repos\SU2020\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csprojAssemblyReference.cache
+C:\Users\ramenmaster\source\repos\SU2020\TriviaGame\TriviaGame\obj\Debug\TriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\ramenmaster\source\repos\SU2020\TriviaGame\TriviaGame\obj\Debug\TriviaGame.exe
+C:\Users\ramenmaster\source\repos\SU2020\TriviaGame\TriviaGame\obj\Debug\TriviaGame.pdb
