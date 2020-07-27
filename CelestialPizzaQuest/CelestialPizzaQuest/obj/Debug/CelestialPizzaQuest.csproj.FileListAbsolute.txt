@@ -1,0 +1,7 @@
+C:\Users\ramenmaster\source\repos\SU2020\CelestialPizzaQuest\CelestialPizzaQuest\obj\Debug\CelestialPizzaQuest.csprojAssemblyReference.cache
+C:\Users\ramenmaster\source\repos\SU2020\CelestialPizzaQuest\CelestialPizzaQuest\obj\Debug\CelestialPizzaQuest.csproj.CoreCompileInputs.cache
+C:\Users\ramenmaster\source\repos\SU2020\CelestialPizzaQuest\CelestialPizzaQuest\bin\Debug\CelestialPizzaQuest.exe.config
+C:\Users\ramenmaster\source\repos\SU2020\CelestialPizzaQuest\CelestialPizzaQuest\bin\Debug\CelestialPizzaQuest.exe
+C:\Users\ramenmaster\source\repos\SU2020\CelestialPizzaQuest\CelestialPizzaQuest\bin\Debug\CelestialPizzaQuest.pdb
+C:\Users\ramenmaster\source\repos\SU2020\CelestialPizzaQuest\CelestialPizzaQuest\obj\Debug\CelestialPizzaQuest.exe
+C:\Users\ramenmaster\source\repos\SU2020\CelestialPizzaQuest\CelestialPizzaQuest\obj\Debug\CelestialPizzaQuest.pdb
