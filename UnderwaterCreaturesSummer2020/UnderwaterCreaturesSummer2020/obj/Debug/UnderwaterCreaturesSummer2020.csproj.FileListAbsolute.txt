@@ -1,0 +1,7 @@
+C:\Users\ramenmaster\source\repos\SU2020\UnderwaterCreaturesSummer2020\UnderwaterCreaturesSummer2020\bin\Debug\UnderwaterCreaturesSummer2020.exe.config
+C:\Users\ramenmaster\source\repos\SU2020\UnderwaterCreaturesSummer2020\UnderwaterCreaturesSummer2020\bin\Debug\UnderwaterCreaturesSummer2020.exe
+C:\Users\ramenmaster\source\repos\SU2020\UnderwaterCreaturesSummer2020\UnderwaterCreaturesSummer2020\bin\Debug\UnderwaterCreaturesSummer2020.pdb
+C:\Users\ramenmaster\source\repos\SU2020\UnderwaterCreaturesSummer2020\UnderwaterCreaturesSummer2020\obj\Debug\UnderwaterCreaturesSummer2020.csprojAssemblyReference.cache
+C:\Users\ramenmaster\source\repos\SU2020\UnderwaterCreaturesSummer2020\UnderwaterCreaturesSummer2020\obj\Debug\UnderwaterCreaturesSummer2020.csproj.CoreCompileInputs.cache
+C:\Users\ramenmaster\source\repos\SU2020\UnderwaterCreaturesSummer2020\UnderwaterCreaturesSummer2020\obj\Debug\UnderwaterCreaturesSummer2020.exe
+C:\Users\ramenmaster\source\repos\SU2020\UnderwaterCreaturesSummer2020\UnderwaterCreaturesSummer2020\obj\Debug\UnderwaterCreaturesSummer2020.pdb
